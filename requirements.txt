@@ -1,5 +1,7 @@
-streamlit
-deepface
+streamlit==1.37.0
+deepface==0.0.79
+tensorflow==2.15.0
+tf-keras
 scikit-learn
-pillow
 numpy
+pillow
