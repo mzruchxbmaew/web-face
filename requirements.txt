@@ -1,0 +1,5 @@
+streamlit
+deepface
+scikit-learn
+pillow
+numpy
